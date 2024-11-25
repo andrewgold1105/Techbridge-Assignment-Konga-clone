@@ -597,6 +597,13 @@ footer .footer-second-container ul li a:hover {
 }
 
 
+@media (max-width:500px) {
+    body {
+
+    }
+}
+
+
 
 
 
