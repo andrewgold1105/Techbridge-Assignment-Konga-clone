@@ -596,6 +596,20 @@ footer .footer-second-container ul li a:hover {
     color: #b5b5b5;
 }
 
+@media (min-width:500px) {
+    #footer {
+        display: none;
+    }
+
+    .nav-media {
+        display: none;
+    }
+
+    #deal {
+        display: none;
+    }
+}
+
 
 @media (max-width:500px) {
     .second-nav {
